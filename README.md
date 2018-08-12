@@ -399,3 +399,5 @@ Michael Hartl's [Rails Tutorial](https://www.railstutorial.org/), [gitlabhq](htt
 [sass-precision]: http://sass-lang.com/documentation/Sass/Script/Value/Number.html#precision%3D-class_method
 [mincer]: https://github.com/nodeca/mincer
 [autoprefixer]: https://github.com/postcss/autoprefixer
+
+@kolier
